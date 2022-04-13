@@ -57,7 +57,7 @@ nav a { text-decoration: none; }
 nav a:link       { color: #ffffff;
 text-shadow: 4px 4px #000000;}
 nav a:visited { color: #ffffff; }
-nav a:hover     { color: #ffffff;} 
+nav a:hover     { color: #ffffff; 
 text-decoration: underline wavy green;
 text-underline-offset: 1px;}
 nav ul {
